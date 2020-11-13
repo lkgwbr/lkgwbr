@@ -1,1 +1,7 @@
-<img src="https://media4.giphy.com/media/yfnjp9xBVl3c4/giphy.gif" />
+<pre>
+<b>O       o O       o O       o O       o O       o O       o O       o O       o</b>
+| O   o | | O   o | | O   o | | O   o | | O   o | | O   o | | O   o | | O   o | 
+| | O | | | | O | | | | O | | | | O | | | | O | | | | O | | | | O | | | | O | | 
+| o   O | | o   O | | o   O | | o   O | | o   O | | o   O | | o   O | | o   O | 
+<b>o       O o       O o       O o       O o       O o       O o       O o       O</b>
+</pre>
